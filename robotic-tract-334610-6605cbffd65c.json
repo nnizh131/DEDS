@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "robotic-tract-334610",
+  "private_key_id": "6605cbffd65c5373bb59e10ed4fe78a3e0d62f0f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCXFgl0eP1sMwX4\n2a43JIP9IJyTCd/8GdqsFTFrSJGkaFIM87iZTSPUw0XN1EEhDGwhcngTIwXC+6cG\nog2frDAuTGtHJRpc4dAsoqy4Zy3uFC2wi0UcBuXqMXZRB11lHPEifLFLDkPCvPmX\nDPPfFUcwpaOkWIOvgjbDuuEM0li2SnkzP2ntBafNohpozJTRVsPbNfn8HusWPcl3\nY7h+EKLMzE6gSPQW3uAh836JUoK9/PwXuYWRQB6GJi5QTSHIJSIer+a7Wn8xPAAu\nPoybNTXt5xW9Iqg+GfqwCmaCJFcLEbNcHkYes1Z3OxAultN05rCgN/qjWniqLoKP\nA9YV3ZSBAgMBAAECggEAA9cA6kOFcFWrJBAXPgpI6vrkU9XbShdXoApBWWhMoEyw\n8iiTE11bKOYGHQU1GwuLZ3226MiZ9cLK08+0UC+ygUi6rMIYBY6NKYdAY8bmi0+a\nuisN+HiB6SX063oIEQDvbXiVEnLkPLusDb9b5tpt9uHs0ulXfnNNJEQYgmiJredU\nZh0w9hrOPBFHEqF22JowIsxLqIc8cNQKxM4tJ/PW/IZSurdYzMNyRCsX+mUSlznE\nzFk6pt8aJ15i4ptKZOuFMsXi0El+FhA2mhmp0udABfXRNmCRk5f2RrYMI2ajtbJC\nBW7SAJ5N8Pu3rKKZSO3JE2ZzqUympIccHoLFL8sLgQKBgQDHK+eSQ/DFTJuUUV2I\nwzPuQiA1nhoCHwsU5P3Lbt/m8rZu7S9MyMGPAdyYZ6xgwoYZPhBx6sDh09PLmASW\nsCfku0eR//DLJnaKj9n5RzrEylKK3M9X38mVuA6ZacsIzBoGZmYuvxVXVgM7381M\nb/Nubse/wOZlSIvB8xkzyvebIQKBgQDCMdOEitHvuN92o9RWG3bF//69ExbgxXrj\noFXVEBz5WeTORK1Vce0g7IvDJezpeOvTcYIJs8qGauKqze1wmz1VAy5MIw2U/KSU\n3ey0SRy1Ty12dmK6pL1FB+sSSRXfquy60h/YmRwnFb5KBe6F19lNbD37LWi69aAd\n8Q/bDectYQKBgG+VHUtIXN9sJ81UOD6ifbmBumHPjWqa0a6HC9io6S+N0r8aimFO\nJ4Ji3J9VlbEvycjiiHwJtL3P2tw48nkpf3AZq+MTrGdjyQ2fwdJyIW6Wmt/JDTCB\n44HJeARizKjFD99+BskxrFcdjPpCS9YC8jJwReAbxfgASKwD8Z6em1GBAoGALsOc\n8iAT6iyU85cEPTAj7A53o8SDD+G+dC5aPRLCR3HUXa/AJgFnXzRXe8kYQijycVq2\nO+vl63S13Pf2I9XecShw77jJPoWQhKDkrY2lsiu9APgFUnj1czgy7ZZYBCK/G0Ya\nkShd1TOxPVYsWGLgW3qjemc2/z7DLjKs5M12TEECgYBU1vH5a0UOhU/c1NN9JWTJ\n4oQjrZvDo6k+FqiIXAKDqhZcYxbpHU8NozmCQnhX5iU7NXuTYR5Hte883rmJsoyY\nfhIj+y2XVrgWNaAJRiAXXbIYzJyLE1f4AOIOqI+k1WTsuRSl4HDYoUDbZmCkjwtG\nUgczp8Kj4K4gpJZ8oi+MDw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "nika-13@robotic-tract-334610.iam.gserviceaccount.com",
+  "client_id": "106546619607917533514",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nika-13%40robotic-tract-334610.iam.gserviceaccount.com"
+}
