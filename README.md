@@ -39,10 +39,7 @@ The order to successfully run the code, the following packages and libraries are
 Once the required packages are installed, it is necessary to get credentials for Google Bigquery API.
 
 1. Get a free API Key at [https://cloud.google.com/bigquery](https://cloud.google.com/bigquery)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
+2. The exported API key should be stored in the following json file -> robotic-tract-334610-6605cbffd65c.json
 3. Install NPM packages
    ```sh
    npm install
