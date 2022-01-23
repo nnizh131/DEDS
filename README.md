@@ -12,6 +12,27 @@ The order to successfully run the code, the following packages and libraries are
   ```sh
   pip install google-cloud-bigquery
   ```
+* Numpy
+  ```sh
+  pip install numpy
+  ```
+* Pandas
+  ```sh
+  pip install pandas
+  ```
+* NetworkX
+  ```sh
+  pip install networkx
+  ```
+* Matplotlib
+  ```sh
+  pip install matplotlib
+  ```
+* Seaborn
+  ```sh
+  pip install seaborn
+  ```
+ 
 
 ### Installation
 
