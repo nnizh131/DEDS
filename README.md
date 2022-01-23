@@ -36,9 +36,9 @@ The order to successfully run the code, the following packages and libraries are
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+Once the required packages are installed, it is necessary to get credentials for Google Bigquery API.
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Get a free API Key at [https://cloud.google.com/bigquery](https://cloud.google.com/bigquery)
 2. Clone the repo
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
