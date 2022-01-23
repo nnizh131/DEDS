@@ -8,9 +8,9 @@ In order to setup the project and reproduce the study please follow the instruct
 ### Prerequisites
 
 The order to successfully run the code, the following packages and libraries are required. 
-* npm
+* Google BigQuery API
   ```sh
-  npm install npm@latest -g
+  pip install google-cloud-bigquery
   ```
 
 ### Installation
