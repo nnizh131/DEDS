@@ -40,14 +40,8 @@ Once the required packages are installed, it is necessary to get credentials for
 
 1. Get a free API Key at [https://cloud.google.com/bigquery](https://cloud.google.com/bigquery)
 2. The exported API key should be stored in the following json file -> robotic-tract-334610-6605cbffd65c.json
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+3. Run the Jupyter notebook get_data.ipynb or get_data2.ipynb in order to generate .csv files under Data folder.
+4. Run vizualisations.ipynb notebook to generate plots for .csv files.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
