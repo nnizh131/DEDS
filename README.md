@@ -1,13 +1,13 @@
 
 <!-- GETTING STARTED -->
 ## Data Ethics and Data Security 
-## Blockchain Team 1
+## Blockchain Team 1.
 
 In order to setup the project and reproduce the study please follow the instructions.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+The order to successfully run the code, the following packages and libraries are required. 
 * npm
   ```sh
   npm install npm@latest -g
