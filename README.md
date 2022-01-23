@@ -50,9 +50,8 @@ Once the required packages are installed, it is necessary to get credentials for
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+The follwing study investigates user behavior and cross chain tracking across Etherem Mainnet and Polygon sidechain. For More detailed description,
+please refer to the paper.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
