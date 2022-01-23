@@ -1,9 +1,9 @@
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Data Ethics and Data Security 
+## Blockchain Team 1
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+In order to setup the project and reproduce the study please follow the instructions.
 
 ### Prerequisites
 
